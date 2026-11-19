@@ -7,6 +7,11 @@
 
 ---
 
+### 战绩显示
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yvzhoutongzhizhe&theme=radical&no-frame=true&no-bg=true&margin-w=20&column=7" />
+</p>
+
 ###  GitHub 数据统计
 
 <div>
