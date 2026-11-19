@@ -1,6 +1,6 @@
 # geek
 尹梦佳
-###  嗨，我是 yulongshizhe
+###  嗨，我是 yulongzhizhe
 >  正在努力学习 Markdown 和 GitHub！
 >  期待用代码探索未知的世界。
 
@@ -14,3 +14,14 @@
 </div>
 
 <br clear="left">
+
+###  技能树点亮中
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown" alt="Markdown" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+</p>
