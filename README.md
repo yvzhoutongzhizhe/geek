@@ -8,6 +8,14 @@
 
 ###  GitHub 数据统计
 
+<br/>
+
+###  活跃度热力图
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yvzhoutongzhizhe/yvzhoutongzhizhe/main/profile-3d-contrib/profile-night-green.svg" width="100%">
+</p>
+
+
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvzhoutongzhizhe&layout=compact&theme=react" alt="编程语言占比" width="45%"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=yvzhoutongzhizhe&show_icons=true&theme=react&hide_border=true" alt="GitHub 提交数据" width="45%"/>
