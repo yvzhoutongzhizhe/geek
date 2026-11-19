@@ -27,11 +27,6 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </p>
 
-###  代码活跃度
-
-*(由于网络原因，动态图有时加载不稳定，这里展示 GitHub 原生自带的年度贡献绿方块图，同样非常酷炫！)*
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yvzhoutongzhizhe&show_icons=true&hide_title=true&theme=react&hide_border=true&bg_color=0d1117)
 
 ---
  感谢你的访问！如果你也觉得 GitHub 很有趣，欢迎 Star 我的仓库！
