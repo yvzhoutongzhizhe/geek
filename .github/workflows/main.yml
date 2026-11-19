@@ -1,0 +1,27 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: yvzhoutongzhizhe
+          outputs: dist/snake.svg
+          
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update Snake SVG
+          file_pattern: dist/snake.svg
+          commit_user_name: yvzhoutongzhizhe
+          commit_user_email: yvzhoutongzhizhe@users.noreply.github.com
