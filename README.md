@@ -1,8 +1,9 @@
 # geek
 尹梦佳
-###  嗨，我是 yvzhoutongzhizhe
->  正在努力学习 Markdown 和 GitHub！
->  期待用代码探索未知的世界。
+###  <h1 align="center">嗨，我是 <a href="https://github.com/yvzhoutongzhizhe">@yvzhoutongzhizhe</a> </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=正在努力学习+Markdown+和+GitHub!;期待用代码探索未知的世界+" alt="打字机效果">
+</p>
 
 ---
 
